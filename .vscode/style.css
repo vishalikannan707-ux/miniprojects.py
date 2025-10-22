@@ -1,0 +1,14 @@
+div{
+    background-color: red;
+    overflow:scroll;
+    font-style: italic;
+    width:100px;
+    height: 100px;
+    display: inline-block;
+}
+span{
+    background-color: aquamarine;
+    display: inline-block;
+    width:100px;
+    height: 100px;
+}
